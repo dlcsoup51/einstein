@@ -1,0 +1,27 @@
+body{
+    background-color: lemonchiffon;
+  }
+  h2 {
+    margin: 40px;
+  }
+
+  .container{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    float: right;
+    padding: 20px;
+    margin: 20px;
+    background-color: darkcyan;
+
+  }
+
+  .img{
+    display: flex;
+    float: center;
+  }
+  .card {
+    background-color: darkcyan;
+    
+  }
+  
